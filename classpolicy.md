@@ -1,18 +1,24 @@
-#MA441 - Algorithmic Problem Solving II
+#MA441 - Analytic Geometry and Calculus I
 
 ### Instructor: KWANG HYUN KIM
 Contact info:kkim@qcc.cuny.edu
 Please, use your **tigermail.**
+
 ### Class meets
-- Mon 10:10AM-11:00AM 
-- Tue 10:10AM-12:00PM
-- Thr 10:10AM-12:00PM
+- Mon 08:10AM-09:00AM at S-211
+- Tue 08:10AM-09:00AM at S-211
+- Tue 09:10AM-10:00AM at S-219(LAB)
+- Thr 08:10AM-10:00AM at S-211
+
 ### Office hour at S-320A
 - Mon 09:10AM-10:00AM
 - Mon 11:10AM-12:00PM
 - Thr 12:10AM-01:00PM
 
-**TEXT**:C++ Without Fear by B. Overland, 2nd Edition, Prentice Hall Publishing
+**TEXT**:Calculus, 7th(ISBN-978-0-538-49781-7) by James Stewart
+
+**Graphic Calculator(TI-84 is recommended) us required.**
+
 ### Grading
 a. Class exam(30%):TEST 1, TEST2, TEST3
 b. LAB(45%)
