@@ -20,6 +20,7 @@ Please, use your **tigermail.**
 **Graphic Calculator(TI-84 is recommended) us required.**
 
 ### Grading
+
 a. Class exam(45%):TEST 1, TEST2, TEST3
 b. QUIZ(5%): 3 quizzes
 c. MAPLE(SAGE) PROJECT(10%): 4 LAB(5%), Final project(5%)
