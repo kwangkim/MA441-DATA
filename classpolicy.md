@@ -22,6 +22,7 @@ Please, use your **tigermail.**
 ### Grading
 
 a. Class exam(45%):TEST 1, TEST2, TEST3
-b. QUIZ(5%): 3 quizzes
+b. QUIZ(5%): 4 quizzes ( I will drop the lowest one.)
 c. MAPLE(SAGE) PROJECT(10%): 4 LAB(5%), Final project(5%)
-d. Final(30%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
+d. Homework(10%)
+e. Final(30%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
