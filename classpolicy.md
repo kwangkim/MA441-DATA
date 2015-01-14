@@ -20,9 +20,7 @@ Please, use your **tigermail.**
 **Graphic Calculator(TI-84 is recommended) us required.**
 
 ### Grading
-a. Class exam(30%):TEST 1, TEST2, TEST3
-b. LAB(45%)
- - LAB CODING QUIZ(10%): 4 quizzes+1 extra credit quiz
- - Regular Project(25%): 5 projects
- - Final research project(10%) - code and  the presentation.
-c. Final(25%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
+a. Class exam(45%):TEST 1, TEST2, TEST3
+b. QUIZ(5%): 3 quizzes
+c. MAPLE(SAGE) PROJECT(10%): 5 regular projects(5%), Final project(5%)
+d. Final(30%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
