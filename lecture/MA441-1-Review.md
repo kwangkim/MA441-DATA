@@ -12,3 +12,8 @@ lec-module : 1
  - 3. 20 min - Factoring
  - 4. 10 min - Graph of a polynomial
  
+### syllabus and class policy
+
+$$
+\frac{x}{y}
+$$
