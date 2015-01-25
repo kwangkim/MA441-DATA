@@ -14,6 +14,6 @@ lec-module : 1
  
 ### syllabus and class policy
 
-$$
+\\(
 \frac{x}{y}
-$$
+\\)
