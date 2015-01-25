@@ -1,6 +1,7 @@
 Schedule
 
 Limits
+
 -1. REVIEW
 -2. 1.4 tagent and physics
 -3. 1.5 def of function /table/graph def of limit /why graph is important
