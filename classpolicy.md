@@ -23,17 +23,28 @@ Please, use your **tigermail.**
 
 a. Class exam(45%):TEST 1(15%), TEST2(15%), TEST3(15%)
 b. QUIZ(5%): 4 quizzes ( I will drop the lowest one.)
-c. MAPLE(SAGE) PROJECT(10%): 4 LAB(5%), Final project(5%)
+c. MAPLE(or SAGE) PROJECT(10%): 4 LAB(5%), Final project(5%)
 d. Homework(10%): **10 Team posting homework every weeks.**
 e. Final(30%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
 
 ### April 16, 2015 is the last day to withdraw.
 
-####Project Policy
+####Project/ Homework Policy
 
 * **There is no late projects will be accepted.** I strongly suggested you submit at least one day earlier than their due dates. 
 * Academic Integrity is very important. **All projects must be the original work of the student (and group if applicable) to get a proper grade for projects.**
 
+####Communication
+
+You need to sign-up using your [**tigermail**](https://tigermail.qcc.cuny.edu/).
+
+* [**http://www.piazza.com**](http://www.piazza.com) - Q&A discussion board with course materials including project, quiz and test. Download the app from [**app store**](https://itunes.apple.com/us/app/piazza/id453142230?mt=8) or [**playstore**](https://play.google.com/store/apps/details?id=com.piazza.android&hl=en).
+For sign-up: Use this http://piazza.com/queensborough_cc/spring2015/ma441b124 with access code 441 or check your tigermail.
+
 #### Attendance Policy
 
 **Unexcused absences beyond 15% of course hours(2 weeks) result in a failing grade for the course.**  To excuse your absences, **a proper document with early notice** is necessary. Two late marks count as one absence. If students leave early with early notice, I will consider as one late mark.
+
+#### No SNS and phone policy
+Please, silence your cellphone and other electronic devices. Except early notice, do not use SNS or phone.
+**For the quiz and test, students should turn off their electronic devices and put them in their bag to avoid a failing grade for the quiz, or test.**
