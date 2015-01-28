@@ -22,11 +22,11 @@ Please, use your **tigermail.**
 
 ### Grading
 
-a. Class exam(45%):TEST 1(15%), TEST2(15%), TEST3(15%)
-b. QUIZ(5%): 4 quizzes ( I will drop the lowest one.)
-c. MAPLE(or SAGE) PROJECT(10%): 4 LAB(5%), Final project(5%)
-d. Homework(10%): **10 Team posting homework every weeks.**
-e. Final(30%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
+* Class exam(45%):TEST 1(15%), TEST2(15%), TEST3(15%)
+* QUIZ(5%): 4 quizzes ( I will drop the lowest one.)
+* MAPLE(or SAGE) PROJECT(10%): 4 LAB(5%), Final project(5%)
+* Homework(10%): **10 Team posting homework every weeks.**
+*. Final(30%)- **I will replace one of lowest scores of TEST1, 2, 3 if final score is higher.**
 
 ### April 16, 2015 is the last day to withdraw.
 
