@@ -1,7 +1,8 @@
 #MA441 B124 - Analytic Geometry and Calculus I
 
 ### Instructor: KWANG HYUN KIM
-Contact info:kkim@qcc.cuny.edu
+Contact info:**kkim@qcc.cuny.edu**  http://kwangkim.github.io/MA441
+
 Please, use your **tigermail.**
 
 ### Class meets
@@ -17,7 +18,7 @@ Please, use your **tigermail.**
 
 **TEXT**:Calculus, 7th(ISBN-978-0-538-49781-7) by James Stewart
 
-**Graphic Calculator(TI-84 is recommended) us required.**
+**Graphic Calculator(TI-84 is recommended) is required.**
 
 ### Grading
 
