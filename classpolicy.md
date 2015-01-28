@@ -32,7 +32,7 @@ Please, use your **tigermail.**
 
 ####Project/ Homework Policy
 
-* **There is no late projects will be accepted.** I strongly suggested you submit at least one day earlier than their due dates. 
+* **There is no late homework/projects will be accepted.** I strongly suggested you submit at least one day earlier than their due dates. 
 * Academic Integrity is very important. **All projects must be the original work of the student (and group if applicable) to get a proper grade for projects.**
 
 ####Communication
