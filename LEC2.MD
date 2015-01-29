@@ -3,4 +3,4 @@
 ### Goal
 
 "Tangent" means touching.
-![http://mathworld.wolfram.com/images/eps-gif/TangentLine_1000.gif]
+![Tangent line](http://mathworld.wolfram.com/images/eps-gif/TangentLine_1000.gif)
