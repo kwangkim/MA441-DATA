@@ -8,7 +8,7 @@
 
 ### Two strategies in mathematics/computer science
 
-#### Divide and conquer(http://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
+#### [Divide and conquer](http://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
 
  * Break the problem into sub-problems
  * Solve the trivial cases
@@ -19,7 +19,6 @@
 Assume problem A is reducible to an easy problem B. If we can solve problem B, then we can solve problem A.
 
 ### Why Calculus?
-
 
 
 #### Area problem
